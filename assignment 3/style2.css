@@ -1,0 +1,82 @@
+body {
+  background-color: blue;
+}
+.modau {
+  margin: 3px;
+  padding: 0px;
+}
+.bg-color-white {
+  background-color: white;
+}
+.bg-width {
+  width: 600px;
+  height: 400px;
+}
+.bg-width-2 {
+  width: 600px;
+  height: 250px;
+}
+.bg-width-3 {
+  width: 400px;
+  height: 400px;
+}
+.bg-width-4 {
+  width: 400px;
+  height: 250px;
+}
+.bg-width-5 {
+  width: 400px;
+  height: 665px;
+}
+.font-md {
+  font-size: 22px;
+}
+.font-sm {
+  font-size: 14px;
+}
+.under-line {
+  border-bottom: 2px solid rgb(226, 223, 223);
+}
+.color-blue {
+  color: blue;
+}
+.ic {
+  width: 80px;
+  font-size: 25px;
+  margin-top: 5px;
+}
+.size-goal {
+  width: 450px;
+}
+/* Scope */
+.IN,
+.OUT {
+  font-size: 20px;
+}
+/* Team */
+.icon {
+  width: 70px;
+  margin-top: 5px;
+}
+/* primary */
+.width-primary {
+  width: 250px;
+}
+/* timeline */
+.size-timeline {
+  width: 300px;
+}
+.line {
+  border-bottom: 2px dashed rgb(91, 91, 206);
+  margin-bottom: 30px;
+}
+
+.col-lon {
+  width: 620px;
+}
+.col-vua {
+  width: 420px;
+}
+.col-nho {
+  width: 300px;
+}

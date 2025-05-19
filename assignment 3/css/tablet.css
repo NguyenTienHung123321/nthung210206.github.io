@@ -1,0 +1,239 @@
+@media (max-width: 768px) {
+  .hidden {
+    display: none;
+  }
+  .kichthuoc {
+    width: 700px;
+    margin-left: -92px;
+  }
+  .trang1 {
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 85px;
+  }
+  .phan1 {
+    justify-self: flex-start;
+  }
+  .trang2 {
+    width: 250px;
+    margin-left: 10px;
+  }
+  .trang2 h2 {
+    width: 200px;
+  }
+  .container3 {
+    width: 1100px;
+  }
+
+  .khung2 {
+    margin-top: 1000px;
+  }
+
+  /* phan4 */
+  .information .col {
+    margin: 0px 0px;
+  }
+  .doan1,
+  .doan2,
+  .doan3,
+  .doan4,
+  .doan5,
+  .doan6 {
+    display: grid;
+    border: solid 1.5px rgb(220, 215, 215);
+    padding: 8px;
+
+    width: 250px;
+    height: 620px;
+  }
+  .doan3,
+  .doan6 {
+    margin-top: 20px;
+  }
+  .nd {
+    width: 200px;
+  }
+  .nhan-de {
+    width: 100px;
+    font-size: 17px;
+    padding-top: 20px;
+  }
+  .bieu-tuong {
+    position: relative;
+    left: -130px;
+  }
+
+  .sapxep {
+    grid-template-columns: 65px 70px 80px;
+    grid-template-rows: 50px 10px;
+  }
+  .icdb {
+    position: relative;
+    top: 100px;
+  }
+  .dulich {
+    position: relative;
+    top: 120px;
+    right: 86px;
+  }
+  .choigame {
+    position: relative;
+    bottom: 11px;
+  }
+
+  .phan5 {
+    grid-template-columns: 1fr 1fr;
+  }
+  /* container5 */
+  .chung-chi .container {
+    margin-left: 0px;
+  }
+  .the1,
+  .the3 {
+    margin-left: 0px;
+  }
+  .chung-chi .col-sm-7,
+  .col-sm-5 {
+    /* /* width: 2000px; */
+    height: 330px;
+    padding: 0px;
+  }
+  .chung-chi .col-sm-7 {
+    width: 290px;
+  }
+  .the1,
+  .the2,
+  .the3 {
+    grid-template-columns: 250px;
+    grid-template-rows: 150px 150px;
+    height: 00px;
+    font-size: 13px;
+    margin-top: 20px;
+  }
+  .the3 {
+    padding-right: 650px;
+  }
+  .chung-chi {
+    height: 1000px;
+    background-color: #f9f6f6;
+  }
+  .nhan-de2 {
+    width: auto;
+    margin-left: 0px;
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+  .nd6 {
+    margin-left: 0px;
+  }
+  .the1 {
+    width: 270px;
+  }
+  /* phan6 */
+  .phan6 .container {
+    margin-left: 0px;
+    padding: 0px;
+  }
+  .phan-0 {
+    width: 210px;
+    height: 80px;
+    align-items: flex-start;
+  }
+  .phan-00 {
+    width: 210px;
+  }
+  .xanh1,
+  .icon-user-1-1,
+  .Funix1,
+  .icon-lamp-1,
+  .develop1,
+  .xanh2,
+  .icon-user-1-2,
+  .Funix2,
+  .icon-lamp-2,
+  .develop2 {
+    margin-top: 11px;
+  }
+  .develop1,
+  .icon-lamp-1,
+  .develop2,
+  .icon-lamp-2 {
+    position: relative;
+    right: 100px;
+    top: 30px;
+  }
+  .buctranh {
+    width: 210px;
+  }
+  .bang1 {
+    grid-template-columns: 80px 130px;
+    grid-template-rows: 185px 115px 200px;
+  }
+  .phan6 .row-cols-sm-3 {
+    grid-gap: 100px;
+    width: 650px;
+  }
+  .buctranh1 {
+    width: 210px;
+    height: 145px;
+    margin-left: 100px;
+  }
+  .bang2 {
+    grid-template-columns: 80px 130px;
+    grid-template-rows: 280px 115px 200px;
+    margin-left: 100px;
+  }
+  .phan-01 {
+    width: 210px;
+    height: 80px;
+    margin-left: 100px;
+    align-items: flex-start;
+  }
+  .phan-001 {
+    width: 210px;
+    margin-left: 100px;
+  }
+
+  .bang3 {
+    margin-left: 200px;
+  }
+  .phan-002 {
+    width: 210px;
+    margin-left: 200px;
+  }
+  .buctranh2 {
+    width: 210px;
+    height: 145px;
+    margin-left: 200px;
+  }
+  .phan-02 {
+    width: 210px;
+    height: 80px;
+    margin-left: 200px;
+    align-items: flex-start;
+  }
+}
+/* js */
+
+.doan1,
+.doan2,
+.doan3,
+.doan4,
+.doan5,
+.doan6 {
+  display: grid;
+  border: solid 1.5px rgb(220, 215, 215);
+  padding: 25px;
+
+  height: 150px;
+}
+.dai {
+  height: 700px;
+}
+
+.email {
+  width: 30px;
+}
+.btn-margin {
+  margin-top: 100px;
+}

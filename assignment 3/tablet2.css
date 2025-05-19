@@ -1,0 +1,23 @@
+@media (max-width: 768px) {
+  .goal .container {
+    width: 560px;
+  }
+  .Timeline .container {
+    width: 360px;
+  }
+  .bg-width {
+    height: 550px;
+  }
+  .bg-width-2 {
+    height: 450px;
+  }
+  .bg-width-4 {
+    height: 350px;
+  }
+  .bg-width-5 {
+    height: 950px;
+  }
+  .bg-width-5 .container {
+    margin-left: 0px;
+  }
+}

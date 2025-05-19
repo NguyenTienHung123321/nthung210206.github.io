@@ -1,0 +1,36 @@
+@media (max-width: 576px) {
+  .bg-width-3 {
+    height: 600px;
+    width: 450px;
+  }
+  .bg-width-2 {
+    height: 450px;
+    width: 450px;
+  }
+  .Timeline .container {
+    width: 360px;
+  }
+  .goal .container {
+    width: 560px;
+  }
+  .modau {
+    margin: 0px;
+    padding: 0px;
+  }
+  .bg-width {
+    width: 560px;
+    height: 560px;
+  }
+  .bg-width-3 {
+    height: 600px;
+    width: 450px;
+  }
+  .bg-width-4 {
+    height: 350px;
+    width: 450px;
+  }
+  .bg-width-5 {
+    height: 1000px;
+    width: 450px;
+  }
+}

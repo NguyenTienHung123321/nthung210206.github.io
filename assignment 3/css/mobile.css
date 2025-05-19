@@ -1,0 +1,232 @@
+@media (max-width: 576px) {
+  .container1 {
+    width: 600;
+    margin-top: 150px;
+  }
+  .container0 {
+    margin-top: 0;
+  }
+
+  .hidden {
+    display: none;
+  }
+  .tavbar {
+    display: block;
+    left: 15%;
+  }
+  .container2 {
+    margin-top: 180px;
+  }
+  .khung {
+    border-right: 0px solid rgb(203, 195, 195);
+    border-left: 0px solid rgb(221, 210, 210);
+    height: 50px;
+  }
+
+  .trang1,
+  .trang2 {
+    margin: 20px 20px;
+  }
+  .trang1 {
+    height: 200px;
+  }
+  .trang2 {
+    padding-left: 100px;
+  }
+  .phan1 {
+    justify-items: start;
+    padding-left: 70px;
+  }
+
+  .tavbar {
+    justify-content: start;
+  }
+  .khung10 {
+    padding-left: 0px;
+  }
+  .khung5 {
+    margin-left: 5px;
+  }
+
+  /* container3 */
+  .container4 .row {
+    width: 600px;
+    justify-content: center;
+    margin-bottom: 700px;
+  }
+  .container4 {
+    grid-gap: 100px;
+    transform: translate(50%);
+    left: 50%;
+    margin-left: -4460px;
+    bottom: 10px;
+
+    height: 100px;
+  }
+  .phan1 {
+    margin-left: 40px;
+  }
+  /* phan4 */
+  .doan4,
+  .doan5,
+  .doan6 {
+    height: 400px;
+    width: 250px;
+    margin-left: 48px;
+  }
+
+  .doan1,
+  .doan2,
+  .doan4,
+  .doan5,
+  .doan6 {
+    margin-bottom: 50px;
+  }
+
+  /* container5 */
+  .chung-chi .container {
+    height: 1100px;
+    background-color: #f9f6f6;
+  }
+  .chung-chi {
+    height: 1300px;
+    margin-bottom: 0px;
+  }
+  .the1 {
+    border-right: 0px solid orange;
+    padding-top: 50px;
+  }
+  .the2 {
+    border-top: 1px orange solid;
+    padding-top: 40px;
+  }
+  .the3 {
+    border-top: 1px orange solid;
+
+    padding-top: 40px;
+    justify-self: start;
+    margin-top: 5px;
+    padding-bottom: 200px;
+    margin-bottom: 20px;
+  }
+  .the1,
+  .the2,
+  .the3 {
+    grid-row-gap: 0px;
+    grid-column-gap: 2px;
+  }
+  .nhan-de2 {
+    width: 200px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+  }
+
+  /* phan6 */
+  .phan6 .container {
+    margin-left: 50px;
+  }
+  .buctranh1 {
+    width: 300px;
+    height: 145px;
+    margin-left: 0px;
+  }
+  .phan-01 {
+    width: 300px;
+    height: 80px;
+    margin-left: 0;
+    align-items: flex-start;
+    height: 120px;
+  }
+  .phan-001 {
+    width: 300px;
+    margin-left: 0;
+  }
+  .bang2 {
+    grid-template-columns: 80px 220px;
+    grid-template-rows: 140px 90px 100px;
+    margin-left: 0px;
+  }
+  .duan {
+    width: 100px;
+    margin: 30px 0px;
+  }
+  .phan-0 {
+    width: 300px;
+    height: 120px;
+  }
+  .phan-00 {
+    width: 300px;
+  }
+  .buctranh {
+    width: 300px;
+  }
+  .bang1 {
+    grid-template-columns: 80px 220px;
+    grid-template-rows: 115px 90px 100px;
+  }
+  .dulieu1,
+  .dulieu2 {
+    margin-bottom: 40px;
+  }
+  .develop1,
+  .icon-lamp-1,
+  .develop2,
+  .icon-lamp-2 {
+    position: relative;
+    right: 175px;
+    top: 75px;
+  }
+  .icon-user-1-1,
+  .icon-user-1-2,
+  .Funix1,
+  .Funix2 {
+    position: relative;
+    top: 45px;
+    right: 74px;
+  }
+
+  .dulieu3 .icon-user-1-2,
+  .Funix2 {
+    position: relative;
+    top: 45px;
+    right: 64px;
+  }
+
+  .dulieu3 .icon-lamp-2,
+  .develop2 {
+    position: relative;
+    right: 165px;
+    top: 75px;
+  }
+
+  .dulieu2 .Funix2 {
+    position: relative;
+    top: 45px;
+    right: 74px;
+  }
+
+  .dulieu2 .develop2 {
+    position: relative;
+    right: 175px;
+    top: 75px;
+  }
+}
+/* js */
+.doan1,
+.doan2,
+.doan3,
+.doan4,
+.doan5,
+.doan6 {
+  display: grid;
+  border: solid 1.5px rgb(220, 215, 215);
+  padding: 25px;
+
+  height: 150px;
+}
+.dai {
+  height: 700px;
+}
+.email {
+  width: 350px;
+}
